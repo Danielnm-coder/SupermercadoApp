@@ -1,0 +1,17 @@
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\bin\Debug\net8.0\SupermecadosApp.Infra.Data.deps.json
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\bin\Debug\net8.0\SupermecadosApp.Infra.Data.runtimeconfig.json
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\bin\Debug\net8.0\SupermecadosApp.Infra.Data.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\bin\Debug\net8.0\SupermecadosApp.Infra.Data.pdb
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\bin\Debug\net8.0\SupermecadosApp.Domain.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\bin\Debug\net8.0\SupermecadosApp.Domain.pdb
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.AssemblyInfo.cs
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\Supermec.E22EBA70.Up2Date
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\refint\SupermecadosApp.Infra.Data.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.pdb
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\SupermecadosApp.Infra.Data.genruntimeconfig.cache
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Infra.Data\obj\Debug\net8.0\ref\SupermecadosApp.Infra.Data.dll

@@ -1,0 +1,11 @@
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\bin\Debug\net8.0\SupermecadosApp.Domain.deps.json
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\bin\Debug\net8.0\SupermecadosApp.Domain.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\bin\Debug\net8.0\SupermecadosApp.Domain.pdb
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\SupermecadosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\SupermecadosApp.Domain.AssemblyInfoInputs.cache
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\SupermecadosApp.Domain.AssemblyInfo.cs
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\SupermecadosApp.Domain.csproj.CoreCompileInputs.cache
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\SupermecadosApp.Domain.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\refint\SupermecadosApp.Domain.dll
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\SupermecadosApp.Domain.pdb
+C:\Csharp_\SupermercadoApp\SupermecadosApp.Domain\obj\Debug\net8.0\ref\SupermecadosApp.Domain.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SupermecadosApp.Domain/1.0.0": {
+        "runtime": {
+          "SupermecadosApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SupermecadosApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
