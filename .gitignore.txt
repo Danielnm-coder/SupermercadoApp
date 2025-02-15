@@ -1,0 +1,38 @@
+# Diretórios do Visual Studio
+.vs/
+
+# Binários e compilação
+bin/
+obj/
+
+# Dependências
+packages/
+node_modules/
+
+# Configurações do usuário
+*.user
+*.suo
+*.vspx
+*.vspscc
+*.vssscc
+
+# Logs, caches e backups
+*.log
+*.cache
+*.bak
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Configurações de build
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Dados sensíveis
+appsettings.Development.json
+secrets.json
+
+
+
